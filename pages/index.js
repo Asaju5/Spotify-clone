@@ -159,39 +159,25 @@ export default function Home() {
             </h1>
 
             <div className="flex-col items-center mb-20 space-y-14 lg:flex lg:mb-24">
-              {/* ----- instagram ---- */}
+              {/* ----- cloud services---- */}
               <div className="relative p-6 my-3 text-gray-200 transition duration-300 transform rounded-lg bg-dusk lg:w-2/3 lg:hover:scale-110">
                 <img
-                  src="/instagram.jfif"
+                  src="/cloud.jpg"
                   className="absolute top-0 right-0 transform -translate-x-5 -translate-y-8 shadow h-14 w-14 md:h-20 md:w-20"
                 />
                 <p className="text-xl font-medium">
                   <a
-                    href="https://www.dunzo.com/"
+                    href="https://next-cloud-xi.vercel.app/"
                     target="_blank"
-                    className="text-purple-400 underline"
+                    className="text-blue-400 underline"
                   >
-                    Instagram Clone
+                    Cloud Services UI
                   </a>
                 </p>
-
-                <div className="mt-4 space-y-2 tracking-wide text-justify lg">
-                  <p>
-                    Dunzo is the new name for India's hyper local delivery
-                    platform. We help people to get things{" "}
-                    <span className="text-green-400">Dun!</span>{" "}
-                    <span role="img" alt="thumbs up emoji"></span>.
-                  </p>
-                  <p>
-                    With a growing network of delivery partners, currently we
-                    operate in 7 major Indian cities. Monthly we see +1.5Mn
-                    transactions on our platform.
-                  </p>
-                </div>
               </div>
-              {/* ----- dunzo ---- */}
+              {/* ----- cloud services ---- */}
 
-              {/* ----- bounce ---- */}
+              {/* ----- uber clone ---- */}
               <section className="relative p-6 my-3 text-gray-200 transition duration-300 transform rounded-lg bg-dusk lg:w-2/3 lg:hover:scale-110">
                 <img
                   src="/uber.png"
@@ -206,54 +192,44 @@ export default function Home() {
                     Uber Web 3.0
                   </a>
                 </p>
-
-                <div className="mt-4 space-y-2 tracking-wide text-justify lg">
-                  <p>
-                    Bounce{" "}
-                    <span role="img" alt="scooter emoji">
-                      🛵
-                    </span>{" "}
-                    is a Bangalore-based bike rental platform. We operate +50K
-                    electric and gasoline dock-less scooters in nearly three
-                    dozen India cities. Bounce is unique with its pick up and
-                    drop anywhere model.
-                  </p>
-                </div>
               </section>
-              {/* ----- instargram ---- */}
+              {/* ----- uber clone ---- */}
 
-              {/* ----- quest ---- */}
+              {/* ----- real estate app ---- */}
               <section className="relative p-6 my-3 text-gray-200 transition duration-300 transform rounded-lg bg-dusk lg:w-2/3 lg:hover:scale-110">
                 <img
-                  src="/Spotify.png"
+                  src="/Real-estate.jpg"
                   className="absolute top-0 right-0 transform -translate-x-5 -translate-y-8 shadow w-18 h-14 md:h-20 md:w-22 bg-white p-2 rounded-lg"
                 />
                 <p className="text-xl font-medium">
                   <a
                     href="https://www.quest-global.com/"
                     target="_blank"
-                    className="text-green-400 underline"
+                    className="text-orange-700 underline"
                   >
-                    Spotify Design
+                    Real Estate App
                   </a>
                 </p>
-
-                <div className="mt-4 space-y-2 tracking-wide text-justify lg">
-                  <p>
-                    QuEST Global{" "}
-                    <span role="img" alt="scooter emoji">
-                      🌐
-                    </span>{" "}
-                    is a pioneer in engineering services sector. We served many
-                    engineering verticals, from defence to aerospace, from
-                    mechanical to electrical, and from software to
-                    transportation. QuEST has a vivid customer base, which
-                    includes bigger names in the market like GE, Pratt &
-                    Whitney, Airbus and Bombardier, to name a few.
-                  </p>
-                </div>
               </section>
-              {/* ----- quest ---- */}
+              {/* ----- real estate app ---- */}
+
+              {/* ----- real estate app ---- */}
+              <section className="relative p-6 my-3 text-gray-200 transition duration-300 transform rounded-lg bg-dusk lg:w-2/3 lg:hover:scale-110">
+                <img
+                  src="/Real-estate.jpg"
+                  className="absolute top-0 right-0 transform -translate-x-5 -translate-y-8 shadow w-18 h-14 md:h-20 md:w-22 bg-white p-2 rounded-lg"
+                />
+                <p className="text-xl font-medium">
+                  <a
+                    href="https://www.quest-global.com/"
+                    target="_blank"
+                    className="text-orange-700 underline"
+                  >
+                    Real Estate App
+                  </a>
+                </p>
+              </section>
+              {/* ----- real estate app ---- */}
             </div>
             {/* ------ experience ------- */}
             {/* ------ skills ------- */}
