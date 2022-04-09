@@ -8,9 +8,9 @@ function HomeHero() {
            text-white font-display justify-center items-center mt-10"
       >
         Hi, I'm Bamidele...An aspiring Full Stack Web Developer. I believe it
-        becomes much easier to work in field where work never feels like work,
-        working as a developer gives me that feeling, as i'm always motivated to
-        improve and sharpens my problem solving skills. I'll love to work with a
+        becomes much easier to work in a field where work never feels like work,
+        being developer gives me that feeling, as i'm always motivated to
+        improve and sharpen my problem solving ability. I'll love to work with a
         team of passionate and goal oriented individuals, solving real life
         problems, making the world livable to a reasonable degree.
       </h1>

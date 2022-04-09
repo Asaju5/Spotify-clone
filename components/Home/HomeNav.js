@@ -64,6 +64,12 @@ function HomeNav() {
             Firebase
           </button>
         </div>
+
+        <div className="">
+          <button className="p-2 border-2 rounded-lg bg-emerald-300 bg-opacity-40 hover:bg-gray-300 hover:bg-opacity-40">
+            Blockchain Dev
+          </button>
+        </div>
       </div>
     </div>
   );
